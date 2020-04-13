@@ -2,3 +2,7 @@
 	path = DAMisener.github.io
 	url = https://github.com/DAMisener/DAMisener.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/DAMisener/DAMisener.github.io.git
+	branch = master
